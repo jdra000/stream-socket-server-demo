@@ -1,1 +1,1 @@
-demo stream socket to communicate to your local host that acts as a server.
+demo stream socket in your local host.
